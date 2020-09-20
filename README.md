@@ -1,1 +1,1 @@
-# DWSM
+# Data Warehouse Management Systems course
